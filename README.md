@@ -1,1 +1,0 @@
-# Math-Contest-Score-Calculator
