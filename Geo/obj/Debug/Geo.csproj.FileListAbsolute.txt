@@ -1,0 +1,14 @@
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.Form1.resources
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.Properties.Resources.resources
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.csproj.GenerateResource.Cache
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\source\repos\Geo\Geo\bin\Debug\Geo.exe.config
+C:\Users\USER-PC\source\repos\Geo\Geo\bin\Debug\Geo.exe
+C:\Users\USER-PC\source\repos\Geo\Geo\bin\Debug\Geo.pdb
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.exe
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.pdb
+C:\Users\USER-PC\source\repos\Geo\Geo\bin\Debug\Geo.exe.manifest
+C:\Users\USER-PC\source\repos\Geo\Geo\bin\Debug\Geo.application
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.exe.manifest
+C:\Users\USER-PC\source\repos\Geo\Geo\obj\Debug\Geo.application
